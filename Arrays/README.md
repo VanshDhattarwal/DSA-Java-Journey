@@ -39,6 +39,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Plus One
 - ✅ Best Time to Buy and Sell Stock
 - ✅ Majority Element
+- ✅ Best Time to Buy and Sell Stock
 
 ---
 
@@ -56,7 +57,8 @@ This folder contains my Java solutions to array-based problems along with the co
 | 8  | Move Zeroes (LeetCode 283)                        | Easy       | ✅      |
 | 9  | Concatenation of Array (LeetCode 1929)            | Easy       | ✅      |
 | 10 | Plus One (LeetCode 66)                            | Easy       | ✅      |
-| 11 | Plus One (LeetCode 66)                            | Easy       | ✅      |
+| 11 | Best Time to Buy and Sell Stock                   | Easy       | ✅      |
+
           
 
 ---
