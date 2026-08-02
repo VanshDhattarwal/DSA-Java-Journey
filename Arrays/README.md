@@ -40,6 +40,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Best Time to Buy and Sell Stock
 - ✅ Majority Element
 - ✅ Best Time to Buy and Sell Stock
+- ✅ Squares of a Sorted Array
 
 ---
 
@@ -63,6 +64,7 @@ This folder contains my Java solutions to array-based problems along with the co
 | 14 | Build Array from Permutation (LeetCode 1920)      | Easy       | ✅      |
 | 15 | Merge Sorted Array (LeetCode 88)                  | Easy       | ✅      |
 | 16 | Majority Element (LeetCode 169)                   | Easy       | ✅      |
+| 17 | Square of Sorted Array( Leetcode 977)             | Easy       | ✅      |
 
           
 
