@@ -57,7 +57,12 @@ This folder contains my Java solutions to array-based problems along with the co
 | 8  | Move Zeroes (LeetCode 283)                        | Easy       | ✅      |
 | 9  | Concatenation of Array (LeetCode 1929)            | Easy       | ✅      |
 | 10 | Plus One (LeetCode 66)                            | Easy       | ✅      |
-| 11 | Best Time to Buy and Sell Stock                   | Easy       | ✅      |
+| 11 | Best Time to Buy and Sell Stock( Leetcode 121)    | Easy       | ✅      |
+| 12 | Two Sum (LeetCode 1)                              | Easy       | ✅      |
+| 13 | Running Sum of 1D Array (LeetCode 1480)           | Easy       | ✅      |
+| 14 | Build Array from Permutation (LeetCode 1920)      | Easy       | ✅      |
+| 15 | Merge Sorted Array (LeetCode 88)                  | Easy       | ✅      |
+| 16 | Majority Element (LeetCode 169)                   | Easy       | ✅      |
 
           
 
