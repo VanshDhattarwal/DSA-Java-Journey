@@ -66,6 +66,7 @@ This folder contains my Java solutions to array-based problems along with the co
 | 15 | Merge Sorted Array (LeetCode 88)                  | Easy       | ✅      |
 | 16 | Majority Element (LeetCode 169)                   | Easy       | ✅      |
 | 17 | Square of Sorted Array( Leetcode 977)             | Easy       | ✅      |
+| 18 | Container With Most Water (LeetCode 11)           | Medium     | ✅      |
 
           
 
