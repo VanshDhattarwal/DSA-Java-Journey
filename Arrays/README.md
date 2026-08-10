@@ -47,29 +47,27 @@ This folder contains my Java solutions to array-based problems along with the co
 
 # 🧩 Problems Solved
 
-| #  | Problem                                           | Difficulty | Status |
-| -- | ------------------------------------------------- | ---------- | ------ |
-| 1  | Largest Element                                   | Easy       | ✅      |
-| 2  | Smallest Element                                  | Easy       | ✅      |
-| 3  | Linear Search                                     | Easy       | ✅      |
-| 4  | Swap Elements                                     | Easy       | ✅      |
-| 5  | Reverse Array                                     | Easy       | ✅      |
-| 6  | Remove Element (LeetCode 27)                      | Easy       | ✅      |
-| 7  | Remove Duplicates from Sorted Array (LeetCode 26) | Easy       | ✅      |
-| 8  | Move Zeroes (LeetCode 283)                        | Easy       | ✅      |
-| 9  | Concatenation of Array (LeetCode 1929)            | Easy       | ✅      |
-| 10 | Plus One (LeetCode 66)                            | Easy       | ✅      |
-| 11 | Best Time to Buy and Sell Stock( Leetcode 121)    | Easy       | ✅      |
-| 12 | Two Sum (LeetCode 1)                              | Easy       | ✅      |
-| 13 | Running Sum of 1D Array (LeetCode 1480)           | Easy       | ✅      |
-| 14 | Build Array from Permutation (LeetCode 1920)      | Easy       | ✅      |
-| 15 | Merge Sorted Array (LeetCode 88)                  | Easy       | ✅      |
-| 16 | Majority Element (LeetCode 169)                   | Easy       | ✅      |
-| 17 | Square of Sorted Array( Leetcode 977)             | Easy       | ✅      |
-| 18 | Container With Most Water (LeetCode 11)           | Medium     | ✅      |
-
-          
-
+| #  | Problem                                           | Difficulty |Status   |
+|----|---------------------------------------------- ----|------------|------   | 
+| 1  | Largest Element                                   | Easy       | ✅     |
+| 2  | Smallest Element                                  | Easy       | ✅     |
+| 3  | Linear Search                                     | Easy       | ✅     |
+| 4  | Swap Elements                                     | Easy       | ✅     |
+| 5  | Reverse Array                                     | Easy       | ✅     |
+| 6  | Remove Element (LeetCode 27)                      | Easy       | ✅     |
+| 7  | Remove Duplicates from Sorted Array (LeetCode 26) | Easy       | ✅     |
+| 8  | Move Zeroes (LeetCode 283)                        | Easy       | ✅     |
+| 9  | Concatenation of Array (LeetCode 1929)            | Easy       | ✅     |
+| 10 | Plus One (LeetCode 66)                            | Easy       | ✅     |
+| 11 | Best Time to Buy and Sell Stock (LeetCode 121)    | Easy       | ✅     |
+| 12 | Two Sum (LeetCode 1)                              | Easy       | ✅     |
+| 13 | Running Sum of 1D Array (LeetCode 1480)           | Easy       | ✅     |
+| 14 | Build Array from Permutation (LeetCode 1920)      | Easy       | ✅     |
+| 15 | Merge Sorted Array (LeetCode 88)                  | Easy       | ✅     |
+| 16 | Majority Element (LeetCode 169)                   | Easy       | ✅     |
+| 17 | Squares of a Sorted Array (LeetCode 977)          | Easy       | ✅     |
+| 18 | Container With Most Water (LeetCode 11)           | Medium     | ✅     |
+| 19 | Two Sum II: Input Array Is Sorted (LeetCode 167)  | Medium     | ✅     |
 ---
 
 # 🧠 Patterns Learned
