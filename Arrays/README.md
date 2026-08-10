@@ -46,9 +46,8 @@ This folder contains my Java solutions to array-based problems along with the co
 ---
 
 # 🧩 Problems Solved
-
-| #  | Problem                                           | Difficulty |Status   |
-|----|---------------------------------------------- ----|------------|------   | 
+| #  | Problem                                           | Difficulty | Status |
+|----|---------------------------------------------------|------------|--------|
 | 1  | Largest Element                                   | Easy       | ✅     |
 | 2  | Smallest Element                                  | Easy       | ✅     |
 | 3  | Linear Search                                     | Easy       | ✅     |
@@ -68,7 +67,6 @@ This folder contains my Java solutions to array-based problems along with the co
 | 17 | Squares of a Sorted Array (LeetCode 977)          | Easy       | ✅     |
 | 18 | Container With Most Water (LeetCode 11)           | Medium     | ✅     |
 | 19 | Two Sum II: Input Array Is Sorted (LeetCode 167)  | Medium     | ✅     |
----
 
 # 🧠 Patterns Learned
 
