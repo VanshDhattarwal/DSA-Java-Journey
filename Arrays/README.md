@@ -44,6 +44,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Container With Most Water
 - ✅Two Sum II: Input Array Is Sorted
 - ✅ Sum of Two Integers
+- ✅ SingleNumber
 
 ---
 
