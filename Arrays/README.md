@@ -70,7 +70,7 @@ This folder contains my Java solutions to array-based problems along with the co
 | 17 | Squares of a Sorted Array (LeetCode 977)          | Easy       | ✅     |
 | 18 | Container With Most Water (LeetCode 11)           | Medium     | ✅     |
 | 19 | Sum of Two Integers (LeetCode 371)                | Medium     | ✅     |
-| 19 | Single Number (LeetCode 136)                      | Easy       | ✅     |
+| 20 | Single Number (LeetCode 136)                      | Easy       | ✅     |
 
 # 🧠 Patterns Learned
 
