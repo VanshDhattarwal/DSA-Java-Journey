@@ -74,6 +74,7 @@ This folder contains my Java solutions to array-based problems along with the co
 | 19 | Sum of Two Integers (LeetCode 371)                | Medium     | ✅     |
 | 20 | Single Number (LeetCode 136)                      | Easy       | ✅     |
 | 21 | Add Binary (LeetCode 67)                          | Easy       | ✅     |
+| 34 | Find First and Last Position of Element in Sorted Array (LeetCode 34) | Medium | ✅ |
 
 # 🧠 Patterns Learned
 
