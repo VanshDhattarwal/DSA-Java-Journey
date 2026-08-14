@@ -72,6 +72,7 @@ This folder contains my Java solutions to array-based problems along with the co
 | 18 | Container With Most Water (LeetCode 11)           | Medium     | ✅     |
 | 19 | Sum of Two Integers (LeetCode 371)                | Medium     | ✅     |
 | 20 | Single Number (LeetCode 136)                      | Easy       | ✅     |
+| 21 | Add Binary (LeetCode 67)                          | Easy       | ✅     |
 
 # 🧠 Patterns Learned
 
