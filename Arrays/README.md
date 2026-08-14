@@ -45,6 +45,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅Two Sum II: Input Array Is Sorted
 - ✅ Sum of Two Integers
 - ✅ SingleNumber
+- ✅ AddBinary
 
 ---
 
