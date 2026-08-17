@@ -46,7 +46,8 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Sum of Two Integers
 - ✅ SingleNumber
 - ✅ AddBinary
-- ✅ Find First and Last Position of Element in Sorted Array 
+- ✅ Find First and Last Position of Element in Sorted Array
+- ✅ Sort Colors 
 
 ---
 
