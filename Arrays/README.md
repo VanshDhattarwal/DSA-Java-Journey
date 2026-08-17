@@ -76,6 +76,7 @@ This folder contains my Java solutions to array-based problems along with the co
 | 20 | Single Number (LeetCode 136)                      | Easy       | ✅     |
 | 21 | Add Binary (LeetCode 67)                          | Easy       | ✅     |
 | 22 | Find First and Last Position of Element in Sorted Array (LeetCode 34) | Medium | ✅ |
+| 23 | Sort Colors (LeetCode 75)                         | Medium     | ✅     |
 
 # 🧠 Patterns Learned
 
