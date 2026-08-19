@@ -47,7 +47,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ SingleNumber
 - ✅ AddBinary
 - ✅ Find First and Last Position of Element in Sorted Array
-- ✅ Sort Colors 
+- ✅ Missing Number
 
 ---
 
