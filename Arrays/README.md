@@ -48,6 +48,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ AddBinary
 - ✅ Find First and Last Position of Element in Sorted Array
 - ✅ Missing Number
+- ✅ Rotate Array
 
 ---
 
