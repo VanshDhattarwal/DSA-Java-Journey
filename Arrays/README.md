@@ -79,6 +79,7 @@ This folder contains my Java solutions to array-based problems along with the co
 | 22 | Find First and Last Position of Element in Sorted Array (LeetCode 34) | Medium | ✅ |
 | 23 | Sort Colors (LeetCode 75)                         | Medium     | ✅     |
 | 23 | Missing Number (LeetCode 268)                     | Easy       | ✅     |
+| 24 | Rotate Array (LeetCode 189)                       | Easy       | ✅     |
 
 # 🧠 Patterns Learned
 
