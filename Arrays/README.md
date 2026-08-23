@@ -50,6 +50,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Missing Number
 - ✅ Rotate Array
 - ✅ Contains Duplicate
+- ✅ Sort Array By Parity
 
 ---
 
