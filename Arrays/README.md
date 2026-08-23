@@ -80,9 +80,10 @@ This folder contains my Java solutions to array-based problems along with the co
 | 21 | Add Binary (LeetCode 67)                          | Easy       | ✅     |
 | 22 | Find First and Last Position of Element in Sorted Array (LeetCode 34) | Medium | ✅ |
 | 23 | Sort Colors (LeetCode 75)                         | Medium     | ✅     |
-| 23 | Missing Number (LeetCode 268)                     | Easy       | ✅     |
-| 24 | Rotate Array (LeetCode 189)                       | Medium     | ✅     |
-| 25 | Contains Duplicate (LeetCode 217)                 | Medium     | ✅     |
+| 24 | Missing Number (LeetCode 268)                     | Easy       | ✅     |
+| 25 | Rotate Array (LeetCode 189)                       | Medium     | ✅     |
+| 26 | Contains Duplicate (LeetCode 217)                 | Medium     | ✅     |
+| 27 | Sort Array By Parity (LeetCode 905)               | Easy       | ✅     |
 
 # 🧠 Patterns Learned
 
