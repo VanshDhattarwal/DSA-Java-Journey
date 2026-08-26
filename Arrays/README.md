@@ -51,6 +51,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Rotate Array
 - ✅ Contains Duplicate
 - ✅ Sort Array By Parity
+- ✅ Maximum Average Subarray I
 
 ---
 
@@ -84,6 +85,7 @@ This folder contains my Java solutions to array-based problems along with the co
 | 25 | Rotate Array (LeetCode 189)                       | Medium     | ✅     |
 | 26 | Contains Duplicate (LeetCode 217)                 | Medium     | ✅     |
 | 27 | Sort Array By Parity (LeetCode 905)               | Easy       | ✅     |
+| 28 | Maximum Average Subarray I (LeetCode 643)         | Medium     | ✅     |
 
 # 🧠 Patterns Learned
 
