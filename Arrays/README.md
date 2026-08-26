@@ -98,6 +98,7 @@ This folder contains my Java solutions to array-based problems along with the co
 * Edge Case Handling
 * Early Return
 * Basic Array Manipulation
+* Sliding Window
 
 ---
 
