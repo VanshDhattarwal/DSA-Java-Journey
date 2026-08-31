@@ -53,7 +53,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Sort Array By Parity
 - ✅ Maximum Average Subarray I
 - ✅ Number of Sub-arrays of Size K and Average >= Threshold
-- ✅ Convert 1D Array_Into 2D Array
+- ✅ Convert 1D Array Into 2D Array
 
 
 ---
@@ -89,8 +89,8 @@ This folder contains my Java solutions to array-based problems along with the co
 | 26 | Contains Duplicate (LeetCode 217)                 | Medium     | ✅     |
 | 27 | Sort Array By Parity (LeetCode 905)               | Easy       | ✅     |
 | 28 | Maximum Average Subarray I (LeetCode 643)         | Medium     | ✅     |
-| 29 | Number of Sub-arrays of Size K and Average >= Threshold(LeetCode 1343 )         | Medium     | ✅     |
-
+| 29 | Number of Sub-arrays of Size K and Average >= Threshold(LeetCode 1343 )  | Medium     | ✅     | 
+| 30 | Convert 1D Array Into 2D Array (LeetCode 2022)     | Easy       | ✅     |
 
 # 🧠 Patterns Learned
 
