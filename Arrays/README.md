@@ -52,6 +52,8 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Contains Duplicate
 - ✅ Sort Array By Parity
 - ✅ Maximum Average Subarray I
+- ✅ 1343 — Number of Sub-arrays of Size K and Average >= Threshold
+
 
 ---
 
