@@ -93,6 +93,7 @@ This folder contains my Java solutions to array-based problems along with the co
 | 29 | Number of Sub-arrays of Size K and Average >= Threshold(LeetCode 1343 )  | Medium     | ✅     | 
 | 30 | Convert 1D Array Into 2D Array (LeetCode 2022)     | Easy       | ✅     |
 | 31 | Minimum Size Subarray Sum (LeetCode 209)          | Medium      | ✅     |
+| 32 | Subarray Product Less Than K (LeetCode 713)       | Medium      | ✅     |
 
 
 # 🧠 Patterns Learned
