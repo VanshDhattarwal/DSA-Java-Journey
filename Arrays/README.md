@@ -55,6 +55,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Number of Sub-arrays of Size K and Average >= Threshold
 - ✅ Convert 1D Array Into 2D Array
 - ✅ Minimum Size Subarray Sum
+- ✅ Subarray Product Less Than K
 
 
 ---
