@@ -96,6 +96,7 @@ This folder contains my Java solutions to array-based problems along with the co
 | 30 | Convert 1D Array Into 2D Array (LeetCode 2022)     | Easy       | ✅     |
 | 31 | Minimum Size Subarray Sum (LeetCode 209)          | Medium      | ✅     |
 | 32 | Subarray Product Less Than K (LeetCode 713)       | Medium      | ✅     |
+| 33 | Longest Subarray of 1's After Deleting One Element (LeetCode 1493) | Medium | ✅  |
 
 
 # 🧠 Patterns Learned
