@@ -131,7 +131,7 @@ This folder contains my Java solutions to array-based problems along with the co
 
 * **Language:** Java
 * **Topic:** Arrays
-* **Problems Solved:** 32
+* **Problems Solved:** 33
 * **Difficulty Covered:** Easy , Medium
 * **Current Goal:** Master Array Patterns before moving to Strings and Two Pointers.
 
