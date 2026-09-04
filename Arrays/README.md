@@ -58,6 +58,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Subarray Product Less Than K
 - ✅ Max Consecutive Ones III
 - ✅ Boats to Save People
+- ✅ Trapping Rain Water
 
 ---
 
