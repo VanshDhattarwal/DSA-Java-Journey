@@ -101,6 +101,8 @@ This folder contains my Java solutions to array-based problems along with the co
 | 33 | Longest Subarray of 1's After Deleting One Element (LeetCode 1493) | Medium | ✅  |
 | 34 | Boats to Save People                              | Medium      | ✅     |
 | 35 | Trapping Rain Water                               |  Hard       | ✅     |
+| 36 | Find All Duplicates using HashSet                 |  Medium     | ✅     |
+
 
 
 # 🧠 Patterns Learned
