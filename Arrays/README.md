@@ -103,7 +103,7 @@ This folder contains my Java solutions to array-based problems along with the co
 | 34 | Boats to Save People                              | Medium      | ✅     |
 | 35 | Trapping Rain Water                               |  Hard       | ✅     |
 | 36 | Find All Duplicates using HashSet                 |  Medium     | ✅     |
-
+| 37 | Intersection Of Two ArraysIntersection Of Two Arrays  |  Easy   | ✅     |
 
 
 # 🧠 Patterns Learned
