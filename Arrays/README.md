@@ -60,6 +60,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Boats to Save People
 - ✅ Trapping Rain Water
 - ✅ Find All Duplicates using HashSet
+- ✅ Intersection Of Two Arrays
 
 ---
 
