@@ -61,7 +61,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Trapping Rain Water
 - ✅ Find All Duplicates using HashSet
 - ✅ Intersection Of Two Arrays
-
+- ✅ Contains Nearby Duplicate 
 ---
 
 # 🧩 Problems Solved
