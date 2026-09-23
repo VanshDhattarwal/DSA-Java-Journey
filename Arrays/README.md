@@ -63,6 +63,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Intersection Of Two Arrays
 - ✅ Contains Nearby Duplicate
 - ✅ Distribute Candies
+- ✅ Happy Number
 ---
 
 # 🧩 Problems Solved
