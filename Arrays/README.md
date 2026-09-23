@@ -108,6 +108,8 @@ This folder contains my Java solutions to array-based problems along with the co
 | 37 | Intersection Of Two ArraysIntersection Of Two Arrays  |  Easy   | ✅     |
 | 38 | Contains Nearby Duplicate                         |  Medium     | ✅     |
 | 39 | Distribute Candies                                | Easy        | ✅     |
+| 40 | Happy Number                                      | Easy        | ✅     |
+
 
 
 # 🧠 Patterns Learned
@@ -142,7 +144,7 @@ This folder contains my Java solutions to array-based problems along with the co
 
 * **Language:** Java
 * **Topic:** Arrays
-* **Problems Solved:** 39
+* **Problems Solved:** 40
 * **Difficulty Covered:** Easy , Medium , Hard .
 * **Current Goal:** Master Array Patterns before moving to Strings and Two Pointers.
 
