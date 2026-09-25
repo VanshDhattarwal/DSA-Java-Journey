@@ -112,6 +112,9 @@ This folder contains my Java solutions to array-based problems along with the co
 | 39 | Distribute Candies                                | Easy        | ✅     |
 | 40 | Happy Number                                      | Easy        | ✅     |
 | 41 | Unique Number Of Occurrences                      | Easy        | ✅     |
+| 42 | Contiguous Array                                  | Medium      | ✅     |
+
+
 
 
 
