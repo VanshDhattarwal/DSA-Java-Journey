@@ -65,6 +65,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Distribute Candies
 - ✅ Happy Number
 - ✅ Unique Number Of Occurrences
+- ✅ Contiguous Array
 ---
 
 # 🧩 Problems Solved
