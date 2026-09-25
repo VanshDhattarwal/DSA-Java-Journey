@@ -110,6 +110,7 @@ This folder contains my Java solutions to array-based problems along with the co
 | 38 | Contains Nearby Duplicate                         |  Medium     | ✅     |
 | 39 | Distribute Candies                                | Easy        | ✅     |
 | 40 | Happy Number                                      | Easy        | ✅     |
+| 41 | Unique Number Of Occurrences                      | Easy        | ✅     |
 
 
 
