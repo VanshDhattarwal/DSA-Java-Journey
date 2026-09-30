@@ -114,6 +114,7 @@ This folder contains my Java solutions to array-based problems along with the co
 | 40 | Happy Number                                      | Easy        | ✅     |
 | 41 | Unique Number Of Occurrences                      | Easy        | ✅     |
 | 42 | Contiguous Array                                  | Medium      | ✅     |
+| 43 | Subarray Sum Equals K                             | Medium      | ✅     |
 
 
 
