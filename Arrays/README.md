@@ -66,6 +66,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Happy Number
 - ✅ Unique Number Of Occurrences
 - ✅ Contiguous Array
+- ✅ Subarray Sum Equals K
 ---
 
 # 🧩 Problems Solved
