@@ -116,6 +116,8 @@ This folder contains my Java solutions to array-based problems along with the co
 | 41 | Unique Number Of Occurrences                      | Easy        | ✅     |
 | 42 | Contiguous Array                                  | Medium      | ✅     |
 | 43 | Subarray Sum Equals K                             | Medium      | ✅     |
+| 44 | Intersection of Two Arrays II                     | Easy        | ✅     |
+
 
 
 
