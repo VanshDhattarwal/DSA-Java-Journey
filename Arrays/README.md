@@ -67,6 +67,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Unique Number Of Occurrences
 - ✅ Contiguous Array
 - ✅ Subarray Sum Equals K
+- ✅ Intersection of Two Arrays II
 ---
 
 # 🧩 Problems Solved
