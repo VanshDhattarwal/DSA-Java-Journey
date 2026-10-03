@@ -68,7 +68,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Contiguous Array
 - ✅ Subarray Sum Equals K
 - ✅ Intersection of Two Arrays II
-- ✅Remove Duplicates from Sorted Array II
+- ✅ Remove Duplicates from Sorted Array II
 ---
 
 # 🧩 Problems Solved
@@ -118,6 +118,8 @@ This folder contains my Java solutions to array-based problems along with the co
 | 42 | Contiguous Array                                  | Medium      | ✅     |
 | 43 | Subarray Sum Equals K                             | Medium      | ✅     |
 | 44 | Intersection of Two Arrays II                     | Easy        | ✅     |
+| 45 | Remove Duplicates from Sorted Array II            | Medium      | ✅     |
+
 
 
 
