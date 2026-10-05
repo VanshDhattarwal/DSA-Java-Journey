@@ -120,6 +120,8 @@ This folder contains my Java solutions to array-based problems along with the co
 | 43 | Subarray Sum Equals K                             | Medium      | ✅     |
 | 44 | Intersection of Two Arrays II                     | Easy        | ✅     |
 | 45 | Remove Duplicates from Sorted Array II            | Medium      | ✅     |
+| 46 | Range Sum Query - Immutable                       | Easy        | ✅     |
+
 
 
 
