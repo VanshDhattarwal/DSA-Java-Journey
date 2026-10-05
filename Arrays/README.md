@@ -69,6 +69,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Subarray Sum Equals K
 - ✅ Intersection of Two Arrays II
 - ✅ Remove Duplicates from Sorted Array II
+- ✅ Range Sum Query - Immutable
 ---
 
 # 🧩 Problems Solved
