@@ -122,6 +122,7 @@ This folder contains my Java solutions to array-based problems along with the co
 | 44 | Intersection of Two Arrays II                     | Easy        | ✅     |
 | 45 | Remove Duplicates from Sorted Array II            | Medium      | ✅     |
 | 46 | Range Sum Query - Immutable                       | Easy        | ✅     |
+| 47 | Pivot Index using Prefix Sum                      | Easy        | ✅     |
 
 
 
