@@ -71,6 +71,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Remove Duplicates from Sorted Array II
 - ✅ Range Sum Query - Immutable
 - ✅ Pivot Index using Prefix Sum
+- ✅ Median of Two Sorted Arrays
 ---
 
 # 🧩 Problems Solved
@@ -123,6 +124,7 @@ This folder contains my Java solutions to array-based problems along with the co
 | 45 | Remove Duplicates from Sorted Array II            | Medium      | ✅     |
 | 46 | Range Sum Query - Immutable                       | Easy        | ✅     |
 | 47 | Pivot Index using Prefix Sum                      | Easy        | ✅     |
+| 48 | Median of Two Sorted Arrays                       |  Hard       | ✅     |
 
 
 
