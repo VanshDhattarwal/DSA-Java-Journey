@@ -72,6 +72,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Range Sum Query - Immutable
 - ✅ Pivot Index using Prefix Sum
 - ✅ Median of Two Sorted Arrays
+- ✅ Longest Consecutive Sequence
 ---
 
 # 🧩 Problems Solved
