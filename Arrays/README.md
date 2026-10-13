@@ -126,6 +126,7 @@ This folder contains my Java solutions to array-based problems along with the co
 | 46 | Range Sum Query - Immutable                       | Easy        | ✅     |
 | 47 | Pivot Index using Prefix Sum                      | Easy        | ✅     |
 | 48 | Median of Two Sorted Arrays                       |  Hard       | ✅     |
+| 49 | Longest Consecutive Sequence                      | Medium      | ✅     |
 
 
 
