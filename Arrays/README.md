@@ -23,6 +23,7 @@ This folder contains my Java solutions to array-based problems along with the co
 ---
 
 # 📖 Concepts Covered
+
 - ✅ Array Basics
 - ✅ Array Traversal
 - ✅ Count Elements
@@ -39,13 +40,12 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Plus One
 - ✅ Best Time to Buy and Sell Stock
 - ✅ Majority Element
-- ✅ Best Time to Buy and Sell Stock
 - ✅ Squares of a Sorted Array
 - ✅ Container With Most Water
-- ✅Two Sum II: Input Array Is Sorted
+- ✅ Two Sum II: Input Array Is Sorted
 - ✅ Sum of Two Integers
-- ✅ SingleNumber
-- ✅ AddBinary
+- ✅ Single Number
+- ✅ Add Binary
 - ✅ Find First and Last Position of Element in Sorted Array
 - ✅ Missing Number
 - ✅ Rotate Array
@@ -73,6 +73,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Pivot Index using Prefix Sum
 - ✅ Median of Two Sorted Arrays
 - ✅ Longest Consecutive Sequence
+
 ---
 
 # 🧩 Problems Solved
