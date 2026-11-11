@@ -73,7 +73,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Pivot Index using Prefix Sum
 - ✅ Median of Two Sorted Arrays
 - ✅ Longest Consecutive Sequence
-
+- ✅ 4Sum II
 ---
 
 # 🧩 Problems Solved
@@ -128,23 +128,23 @@ This folder contains my Java solutions to array-based problems along with the co
 | 47 | Pivot Index using Prefix Sum                      | Easy        | ✅     |
 | 48 | Median of Two Sorted Arrays                       |  Hard       | ✅     |
 | 49 | Longest Consecutive Sequence                      | Medium      | ✅     |
-| 50 | Array Partition (LeetCode 561)                    | Easy | ✅ |
-| 51 | Binary Search (LeetCode 704)                      | Easy | ✅ |
-| 52 | Product of Array Except Self (LeetCode 238)       | Medium | ✅ |
-| 53 | Partition Array According to Given Pivot (LeetCode 2161) | Medium | ✅ |
-| 54 | Count Elements With Maximum Frequency (LeetCode 3005) | Easy | ✅ |
-| 55 | Top K Frequent Elements (LeetCode 347) | Medium | ✅ |
-| 56 | Longest Resilient Subarray II (LeetCode 4076) | Medium | ✅ |
-| 57 | Longest Resilient Subarray I (LeetCode 4075) | Medium | ✅ |
-| 58 | Maximum Product Pair With Target Sum (LeetCode 4074) | Easy | ✅ |
-| 59 | Continuous Subarray Sum (LeetCode 523) | Medium | ✅ |
-| 60 | Stone Game (LeetCode 877) | Medium | ✅ |
-| 61 | Max Consecutive Ones III (LeetCode 1004) | Medium | ✅ |
-| 62 | Check ASCII Palindromic (LeetCode 4030) | Easy | ✅ |
-| 63 | Find All Numbers Disappeared in an Array II (LeetCode 4031) | Medium | ✅ |
-| 64 | Two Sum II - Input Array Is Sorted (LeetCode 167) | Medium | ✅ |
-| 65 | Palindrome Number (LeetCode 9) | Easy | ✅ |
-
+| 50 | Array Partition (LeetCode 561)                    | Easy        | ✅ |
+| 51 | Binary Search (LeetCode 704)                      | Easy        | ✅ |
+| 52 | Product of Array Except Self (LeetCode 238)       | Medium      | ✅ |
+| 53 | Partition Array According to Given Pivot (LeetCode 2161)        | Medium | ✅ |
+| 54 | Count Elements With Maximum Frequency (LeetCode 3005)           | Easy | ✅ |
+| 55 | Top K Frequent Elements (LeetCode 347)            | Medium      | ✅ |
+| 56 | Longest Resilient Subarray II (LeetCode 4076)     | Medium      | ✅ |
+| 57 | Longest Resilient Subarray I (LeetCode 4075)      | Medium      | ✅ |
+| 58 | Maximum Product Pair With Target Sum (LeetCode 4074) | Easy     | ✅ |
+| 59 | Continuous Subarray Sum (LeetCode 523)            | Medium      | ✅ |
+| 60 | Stone Game (LeetCode 877)                         | Medium      | ✅ |
+| 61 | Max Consecutive Ones III (LeetCode 1004)          | Medium      | ✅ |
+| 62 | Check ASCII Palindromic (LeetCode 4030)           | Easy        | ✅ |
+| 63 | Find All Numbers Disappeared in an Array II (LeetCode 4031)     | Medium | ✅ |
+| 64 | Two Sum II - Input Array Is Sorted (LeetCode 167) | Medium      | ✅ |
+| 65 | Palindrome Number (LeetCode 9)                    | Easy        | ✅ |
+| 66 | 4Sum II                                           | Medium      | ✅ |
 
  
 
