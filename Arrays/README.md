@@ -74,6 +74,7 @@ This folder contains my Java solutions to array-based problems along with the co
 - ✅ Median of Two Sorted Arrays
 - ✅ Longest Consecutive Sequence
 - ✅ 4Sum II
+- ✅ 4Sum 
 ---
 
 # 🧩 Problems Solved
@@ -145,6 +146,7 @@ This folder contains my Java solutions to array-based problems along with the co
 | 64 | Two Sum II - Input Array Is Sorted (LeetCode 167) | Medium      | ✅ |
 | 65 | Palindrome Number (LeetCode 9)                    | Easy        | ✅ |
 | 66 | 4Sum II                                           | Medium      | ✅ |
+| 67 | 4Sum                                              | Medium      | ✅ |
 
  
 
@@ -184,7 +186,7 @@ This folder contains my Java solutions to array-based problems along with the co
 
 * **Language:** Java
 * **Topic:** Arrays
-* **Problems Solved:** 49
+* **Problems Solved:** 67
 * **Difficulty Covered:** Easy , Medium , Hard .
 * **Current Goal:** Master Array Patterns before moving to Strings and Two Pointers.
 
